@@ -1,0 +1,16 @@
+{
+    "name": "tcs322/laravel-tdd",
+    "description": "laravel with tdd",
+    "authors": [
+        {
+            "name": "Thyerre Sampaio",
+            "email": "thyerre322@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
